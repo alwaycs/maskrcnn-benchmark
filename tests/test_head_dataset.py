@@ -1,3 +1,5 @@
+import unittest
+
 from maskrcnn_benchmark.data.datasets import HeadDataset
 
 
@@ -10,4 +12,4 @@ def main():
     print('test')
 
 if __name__ == '__main__':
-    main()
+    unittest.main()
