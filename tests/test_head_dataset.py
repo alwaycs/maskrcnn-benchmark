@@ -1,5 +1,3 @@
-import unittest
-
 from maskrcnn_benchmark.data.datasets import HeadDataset
 
 
